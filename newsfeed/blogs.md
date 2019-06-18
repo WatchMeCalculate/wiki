@@ -7,3 +7,4 @@ Blogs
  - [Bytes by Ying](https://bytes.yingw787.com/)
  - [Simon Brown](https://simonbrown.je/)
  - [Martin Fowler](https://martinfowler.com/)
+ - [Scaramanga](https://giannitedesco.github.io/)
