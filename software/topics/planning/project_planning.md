@@ -35,5 +35,5 @@ Steps:
     Project quality consists of ensuring that the end product will meet specifications and be usable. Project risks are events that may or may not happen but could significantly hinder the outcome of the project
  10. Communicate
 
-    Plan on how to report on progess, issues that could arise, and where project information will be stored. Early communication is best for issues
+       Plan on how to report on progess, issues that could arise, and where project information will be stored. Early communication is best for issues
 ---
