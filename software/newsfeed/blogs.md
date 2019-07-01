@@ -8,3 +8,4 @@ Blogs
  - [Simon Brown](https://simonbrown.je/)
  - [Martin Fowler](https://martinfowler.com/)
  - [Scaramanga](https://giannitedesco.github.io/)
+ - [Null Program](https://nullprogram.com/)
