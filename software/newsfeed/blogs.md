@@ -9,3 +9,7 @@ Blogs
  - [Martin Fowler](https://martinfowler.com/)
  - [Scaramanga](https://giannitedesco.github.io/)
  - [Null Program](https://nullprogram.com/)
+ - [the morning paper](https://blog.acolyer.org/)
+
+### Games
+ - [Forrest The Woods](https://www.forrestthewoods.com/)
