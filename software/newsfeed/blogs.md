@@ -10,6 +10,7 @@ Blogs
  - [Scaramanga](https://giannitedesco.github.io/)
  - [Null Program](https://nullprogram.com/)
  - [the morning paper](https://blog.acolyer.org/)
+ - [Andrea Lattuada (Google Fellow)](https://andrea.lattuada.me/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
