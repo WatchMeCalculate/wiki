@@ -10,6 +10,7 @@ Blogs
  - [Scaramanga](https://giannitedesco.github.io/)
  - [Null Program](https://nullprogram.com/)
  - [the morning paper](https://blog.acolyer.org/)
+ - [The Art of Machinery](https://theartofmachinery.com/)
  - [Andrea Lattuada (Google Fellow)](https://andrea.lattuada.me/)
 
 ### Games
