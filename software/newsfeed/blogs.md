@@ -12,6 +12,7 @@ Blogs
  - [the morning paper](https://blog.acolyer.org/)
  - [The Art of Machinery](https://theartofmachinery.com/)
  - [Andrea Lattuada (Google Fellow)](https://andrea.lattuada.me/)
+ - [Brendan Gregg](http://www.brendangregg.com/index.html)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
