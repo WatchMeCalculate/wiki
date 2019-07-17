@@ -13,6 +13,7 @@ Blogs
  - [The Art of Machinery](https://theartofmachinery.com/)
  - [Andrea Lattuada (Google Fellow)](https://andrea.lattuada.me/)
  - [Brendan Gregg](http://www.brendangregg.com/index.html)
+ - [Matt Might](http://matt.might.net/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
