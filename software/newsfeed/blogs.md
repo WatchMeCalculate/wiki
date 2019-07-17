@@ -17,6 +17,7 @@ Blogs
  - [Embedded in Academia](https://blog.regehr.org/)
  - [The Geomblog](http://blog.geomblog.org/)
  - [Godels Lost letter](https://rjlipton.wordpress.com/)
+ - [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
