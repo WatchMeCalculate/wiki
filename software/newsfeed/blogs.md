@@ -14,6 +14,9 @@ Blogs
  - [Andrea Lattuada (Google Fellow)](https://andrea.lattuada.me/)
  - [Brendan Gregg](http://www.brendangregg.com/index.html)
  - [Matt Might](http://matt.might.net/)
+ - [Embedded in Academia](https://blog.regehr.org/)
+ - [The Geomblog](http://blog.geomblog.org/)
+ - [Godels Lost letter](https://rjlipton.wordpress.com/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
