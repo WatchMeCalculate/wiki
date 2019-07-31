@@ -19,6 +19,8 @@ Blogs
  - [Godels Lost letter](https://rjlipton.wordpress.com/)
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
  - [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
+ - [1024 cores](http://www.1024cores.net/)
+ - [Internal pointers](https://www.internalpointers.com/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
