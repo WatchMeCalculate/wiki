@@ -18,6 +18,7 @@ Blogs
  - [The Geomblog](http://blog.geomblog.org/)
  - [Godels Lost letter](https://rjlipton.wordpress.com/)
  - [Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+ - [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
