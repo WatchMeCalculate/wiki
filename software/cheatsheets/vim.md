@@ -58,7 +58,7 @@ Vim
  - Run external command `:! <command> ` adding `%` at end for current file
  - Run external command and save output to buffer `:r ! <command>`
 
-
+## In Practice useful operations
 ### Comment out / Uncomment code
 #### Comment out
 1. `ctrl-v` -> visual block mode
