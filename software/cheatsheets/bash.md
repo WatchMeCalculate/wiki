@@ -9,3 +9,8 @@ for f in `ls | grep XXX*.json`; do
     mv "$f" "${f%.json}_v1.json"
 done
 ```
+
+### List processes listening
+```
+lsof -iTCP -sTCP:LISTEN -n -P
+```
