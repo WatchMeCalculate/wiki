@@ -21,6 +21,7 @@ Blogs
  - [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
  - [1024 cores](http://www.1024cores.net/)
  - [Internal pointers](https://www.internalpointers.com/)
+ - [Fluent Cpp](https://www.fluentcpp.com/)
 
 ### Games
  - [Forrest The Woods](https://www.forrestthewoods.com/)
