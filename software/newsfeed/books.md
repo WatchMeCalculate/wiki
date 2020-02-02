@@ -8,3 +8,4 @@ Books
 
 ## Books on programming
  - [Learn you some erlang](https://learnyousomeerlang.com/content)
+ - [Game AI Pro](http://www.gameaipro.com/)
