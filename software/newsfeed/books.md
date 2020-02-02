@@ -10,3 +10,4 @@ Books
  - [Learn you some erlang](https://learnyousomeerlang.com/content)
  - [Game AI Pro](http://www.gameaipro.com/)
  - [Crafting Interpreters](https://www.craftinginterpreters.com/)
+ - [Rust Programming Language](https://doc.rust-lang.org/book/)
