@@ -52,4 +52,42 @@ Obscurity is often associated with dependency where it is not obvious that a dep
 
 
 
+### Development mindeset
+
+One of the most important elements of good software design is the mindset you adopt when you approach a programming task. Many orgs focus on getting features working as quickly as possible. If you want good design, you must take a more strategic approach where you invest time to produce clean designs and fix problems.
+
+#### Tactical programming
+
+The main focus is to get something working, sucha s a new feature or a bug fix. However, tactical programming makes it nearly impossible to produce a good system design. The problem with this approach is that it's short sighted. This mindset makes less time for planning for the future. This is how systems become complicated
+
+#### Strategic programming
+
+*First step towards becoming a good software designer is to realize that working code isn't enough* It's not acceptable to introduce unnecessary complexities to complete your task faster. The most important thing is long term structure of a system. Investment mindset.
+
+
+### Modules should be deep
+
+One of the most important techniques for managing software complexity is to design systems so that developers only need to face a small fraction of the overall complexity at any given time. This is called modular design.
+
+*Modular Design* a software system is decomposed into a collection of modules that are relatively independent. Module scan take many forms, such as classes, subsystems, or services. In an ideal world, each module would be completely independent of the others. A developer could work in any of the modules without knowing anything about any of the other modules. In this world the complexity of a system would be the complexity of its worst module.
+
+Modules must work together by calling each other's functions or methods. As a result, module smust know something about the other. There will be dependencies between modules: if one module changes, other modules may need to change to match. ie a function signature.o
+
+In order to manage dependencies, we think of each module in two parts: an _interface_ and an _implementation_.
+
+The best modules are those whose interfaces are much simpler than their implementations. Such modules have two advantages:
+1. A simple interface minimizes the complexity that a module imposes on the rest of the system.
+2. If a module is modified in a way that does not change its interfaces, then no other module will be affected by the modification
+
+#### Abstractions
+
+An abstraction is a simplified view of an entity, which omits unimportant details. Abstractions are useful because they make it easier for us to think about and manipulate complex things.
+
+An Abstraction can go wrong in two ways:
+1. It can include details that are not really important, this makes it more complicated than necessary, increasing cognitive load on a developer.
+2. It can omit details that are really important, this results in obscurity: developers looking at the abstraction won't have all the information they need to use it correctly.
+
+#### Deep Modules
+
+The best modules are those that provide powerful functionality yet have simple interfaces. A deep modules is a good abstraction because only a small fraction of its internal complexity is visible to users. Module depth is a way of thinking about cost versus benefit. *The benefit provided by a module is its functionality. The cost of a module is its interface*
 
